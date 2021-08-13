@@ -1,0 +1,73 @@
+@import url(reset.css);
+
+.page {
+  font-size: 20px;
+}
+.header {
+}
+.header__logo {
+}
+.menu {
+}
+.menu__link {
+}
+.hero {
+}
+.hero__heading {
+}
+.hero__text {
+}
+.hero__button {
+}
+.button {
+}
+.hero__img {
+}
+.img {
+}
+.article {
+}
+.article__heading {
+}
+.article__text {
+}
+.container-text {
+}
+.container-text__heading {
+}
+.container-text__date {
+}
+.container-text__chapter {
+}
+.container-text__text {
+}
+.article__container-text__heading {
+}
+.article__container-text__date {
+}
+.article__container-text__chapter {
+}
+.article__container-text__text {
+}
+.container-img {
+}
+.container-img__image {
+}
+.container-img__heading {
+}
+.container-img__date {
+}
+.container-img__subtitle {
+}
+.container-img__text {
+}
+.footer {
+}
+.icons {
+}
+.icons-item {
+}
+.footer__copyright {
+}
+.footer__text {
+}
